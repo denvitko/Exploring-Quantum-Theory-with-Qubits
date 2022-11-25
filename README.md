@@ -5,4 +5,7 @@
 **Mentor:** Subhroneel Chakrabarti   
 **Intership name:** Exploring Quantum Theory with Qubits   
 **Place:** Physics Insitute, Czech Academy of Sciences   
-**Duration:** January 2023 - December 2023
+**Duration:** January 2022 - December 2022
+
+## Project
+[Rabi Oscillation](./RABI-Oscillation) - presented during the Student Science Conference at the Czech Academy of Sciences (Prague, November 25, 2022)
