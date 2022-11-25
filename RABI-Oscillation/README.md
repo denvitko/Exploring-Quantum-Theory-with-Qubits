@@ -10,6 +10,28 @@
 * Reproduce Rabi oscillation in an IBM quantum computer
 * Capture how a qubit evolves under different Hamiltonians
 * Analyse the effects of error and how to mitigate it
+* We worked with these three Hamiltonians:
+
+$$
+H_{1}=\begin{pmatrix}
+71 & 50i \\
+-50i & 71
+\end{pmatrix}
+$$
+
+$$
+H_{2}=\begin{pmatrix}
+3.2 & 0.14 \\
+0.14 & 4.16
+\end{pmatrix}
+$$
+
+$$
+H_{3}=\begin{pmatrix}
+5 & 3+2i \\
+3-2i & 5
+\end{pmatrix}
+$$
 
 ## Project Outcomes
 * We successfully reproduced Rabi oscillations in IBM-Q
