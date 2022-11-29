@@ -55,6 +55,21 @@ $$
 | H3 After Error Mitigation  | 0.519%     |
 
 
+## Code Structure
+
+```
+RABI oscillation project tree
+├─ CLASSES
+├─ EXPERIMENTS
+├─ INPUT
+│  └─ hamiltonians.csv
+├─ OUTPUT
+│  ├─ DATA
+│  └─ PLOTS
+├─ SETUP
+└─ README.md
+```
+
 <!--
 ## Code Structure
 
