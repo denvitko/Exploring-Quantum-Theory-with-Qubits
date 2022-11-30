@@ -1,6 +1,6 @@
-# RABI Oscillation
+<img  align="right" height="200" src="./QR-code.png" />
 
-<img  align="right" height="150" src="./QR-code.png" />
+# RABI Oscillation
 
 > project created during an Open Science internship
 
