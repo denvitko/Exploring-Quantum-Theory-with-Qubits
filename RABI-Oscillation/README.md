@@ -1,5 +1,7 @@
 # RABI Oscillation
 
+<img  align="right" height="150" src="./QR-code.png" />
+
 > project created during an Open Science internship
 
 **Work of:** Kristina Prošková, Denisa Vítková & Berenika Zemanová   
