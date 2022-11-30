@@ -1,4 +1,4 @@
-<img  align="right" height="220" src="./QR-code.png" />
+<img  align="right" height="220" src="./GitHub-QR.png" />
 
 # RABI Oscillation
 
