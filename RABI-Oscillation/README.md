@@ -5,7 +5,7 @@
 **Work of:** Kristina Prošková, Denisa Vítková & Berenika Zemanová   
 **Mentor:** Subhroneel Chakrabarti   
 **Place:** Physics Insitute, Czech Academy of Sciences   
-**Update date:** 11/25/2022
+**Update date:** 11/30/2022
 
 ## Aim of the Project
 
@@ -58,15 +58,32 @@ $$
 ## Code Structure
 
 ```
-RABI oscillation project tree
+RABI-Oscillation project tree
 ├─ CLASSES
+│  ├─ EXP-noisy-simulator.ipynb
+│  ├─ EXP-real-hardware.ipynb
+│  ├─ EXP-theoretical-analyzis.ipynb
+│  ├─ Experiment.ipynb
+│  └─ Hamiltonian.ipynb
 ├─ EXPERIMENTS
 ├─ INPUT
 │  └─ hamiltonians.csv
 ├─ OUTPUT
 │  ├─ DATA
+│  │  ├─ IBMQ
+│  │  ├─ SIMULATOR
+│  │  └─ THEORY
 │  └─ PLOTS
+│     ├─ IBMQ
+│     ├─ SIMULATOR
+│     └─ THEORY
 ├─ SETUP
+│  ├─ backend.ipynb
+│  ├─ functions.ipynb
+│  ├─ init.ipynb
+│  ├─ libraries.ipynb
+│  ├─ load-hamiltonians.ipynb
+│  └─ user-settings.ipynb
 └─ README.md
 ```
 
