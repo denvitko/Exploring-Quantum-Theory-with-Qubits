@@ -4,7 +4,7 @@
 
 > project created during an Open Science internship
 
-**Work of:** Kristina Prošková, Denisa Vítková & Berenika Zemanová   
+**Work of:** K. Prošková, D. Vítková & B. Zemanová   
 **Mentor:** Subhroneel Chakrabarti   
 **Place:** Physics Insitute, Czech Academy of Sciences   
 **Update date:** 11/30/2022
