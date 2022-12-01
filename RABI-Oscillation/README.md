@@ -58,6 +58,8 @@ $$
 
 ## Code Structure
 
+For specifying custom settings navigate to [`user-settings.ipynb`](./SETUP/user-settings.ipynb) file. Also, don't forget to insert your IBMQ API token here (so that you can run experiments on IBMQ backend). Custom Hamiltonians can be specified in [`hamiltonians.csv`](./INPUT/hamiltonians.csv) file. To run an experiment, navigate to [`EXPERIMENTS`](./EXPERIMENTS) folder and choose desired file here. Retrieved data and plots are stored in [`OUTPUT`](./OUTPUT) folder.
+
 ```
 RABI-Oscillation project tree
 ├─ CLASSES
