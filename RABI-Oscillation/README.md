@@ -49,13 +49,12 @@ $$
 * It shows good agreement with theoretical predictions prior to error mitigation
 * After error mitigation the agreement is excellent
 
-| System                     | Mean Error |
-| ---                        | ---        |
-| H1 Before Error Mitigation | 6.244%     |
-| H1 After Error Mitigation  | 1.061%     |
-| H2 After Error Mitigation  | 0.417%     |
-| H3 After Error Mitigation  | 0.519%     |
 
+| System         | H1 Before Error Mitigation | H1 After Error Mitigation | H2 After Error Mitigation | H3 After Error Mitigation |
+| :--            | :-:                        | :-:                       | :-:                       | :-:                       |
+| __Mean Error__ | 6.244%                     | 1.061%                    | 0.417%                    | 0.519%                    |
+
+<!--<img src="./OUTPUT/PLOTS/IBMQ/H1-real-hardware.png" />-->
 
 ## Code Structure
 
