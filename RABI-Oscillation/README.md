@@ -69,6 +69,10 @@ RABI-Oscillation project tree
 │  ├─ Experiment.ipynb
 │  └─ Hamiltonian.ipynb
 ├─ EXPERIMENTS
+│  ├─ IBMQ
+│  ├─ SIMULATOR
+│  ├─ THEORY
+│  └─ computed-mean-errors.ipynb
 ├─ INPUT
 │  └─ hamiltonians.csv
 ├─ OUTPUT
@@ -89,26 +93,3 @@ RABI-Oscillation project tree
 │  └─ user-settings.ipynb
 └─ README.md
 ```
-
-<!--
-## Code Structure
-
-```
-RABI oscillation project tree
-├─ CLASSES
-├─ EXPERIMENTS
-├─ INPUT
-│  └─ hamiltonians.csv
-├─ OUTPUT
-│  ├─ DATA
-│  └─ PLOTS
-├─ SETUP
-│  ├─ backend.ipynb
-│  ├─ functions.ipynb
-│  ├─ init.ipynb
-│  ├─ libraries.ipynb
-│  ├─ load-hamiltonians.ipynb
-│  └─ user-settings.ipynb
-└─ README.md
-```
--->
