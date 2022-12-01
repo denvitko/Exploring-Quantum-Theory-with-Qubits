@@ -1,7 +1,7 @@
 # Exploring Quantum Theory with Qubits
 > Open Science intership at FZÚ AV ČR (Physical Institute, the Czech Academy of Sciences) 
 
-**Interns:** Kristina Prošková, Denisa Vítková & Berenika Zemanová   
+**Interns:** K. Prošková, D. Vítková & B. Zemanová   
 **Mentor:** Subhroneel Chakrabarti   
 **Intership name:** Exploring Quantum Theory with Qubits   
 **Place:** Physics Insitute, Czech Academy of Sciences   
