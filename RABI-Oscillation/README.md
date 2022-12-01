@@ -7,7 +7,7 @@
 **Work of:** K. Prošková, D. Vítková & B. Zemanová   
 **Mentor:** Subhroneel Chakrabarti   
 **Place:** Physics Insitute, Czech Academy of Sciences   
-**Update date:** 11/30/2022
+**Update date:** 12/01/2022
 
 ## Aim of the Project
 
