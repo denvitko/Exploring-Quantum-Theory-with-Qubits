@@ -2,7 +2,7 @@
 > Open Science intership at FZÚ AV ČR (Physical Institute, the Czech Academy of Sciences) 
 
 **Internship:** Exploring Quantum Theory with Qubits  
-**Mentor:** Subhroneel Chakrabarti   
+**Mentor:** Dr Subhroneel Chakrabarti   
 **Interns:** K. Prošková, D. Vítková & B. Zemanová   
 **Place:** Physics Institute, Czech Academy of Sciences   
 **Duration:** January 2022–December 2022
