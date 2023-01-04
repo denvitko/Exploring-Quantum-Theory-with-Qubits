@@ -2,7 +2,9 @@
 
 # RABI Oscillation
 
-> project created during an Open Science internship 
+> project created during an Open Science internship
+
+Our project was presented at the Students Science Conference, presentation is available here: [Rabi Oscillation.pdf](../PRESENTATIONS/Rabi-Oscillation.pdf).
 <!--**Update date:** 12/01/2022-->
 
 ## Aim of the Project
