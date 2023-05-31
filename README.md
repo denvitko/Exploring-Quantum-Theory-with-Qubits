@@ -1,4 +1,4 @@
-# Exploring Quantum Theory with Qubits
+# [Exploring Quantum Theory with Qubits](https://denvitko.github.io/Exploring-Quantum-Theory-with-Qubits)
 > Open Science intership at FZÚ AV ČR (Physical Institute, the Czech Academy of Sciences) 
 
 **Internship:** Exploring Quantum Theory with Qubits  
