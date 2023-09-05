@@ -4,7 +4,7 @@
 
 > project created during an Open Science internship
 
-Our project was presented at the Students Science Conference, presentation is available here: [Rabi Oscillation.pdf](../PRESENTATIONS/Rabi-Oscillation.pdf).
+Our project was presented at the Students Science Conference, see a [document with abstract](./Rabi-Oscillations.pdf) and a [presentation on the Rabi Oscillations](../PRESENTATIONS/Rabi-Oscillation.pdf).
 <!--**Update date:** 12/01/2022-->
 
 ## Aim of the Project
